@@ -1,6 +1,5 @@
 ## **Retrieval-Augmented Generation (RAG) pipeline**
 
-
 ### **Step 1: Build the Vector Store**
 - The documents are first processed by an **Embedding Model** that converts text into numerical vector representations (embeddings).
 - These embeddings are then stored in a **Vector Database (Vector Store)**, enabling efficient similarity searches.
